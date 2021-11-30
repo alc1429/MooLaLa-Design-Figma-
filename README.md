@@ -1,4 +1,4 @@
-# MooLaLa-Design-Figma-
+# MooLaLa Figma Design
 
 https://www.figma.com/file/JD4GO1V4yb3XQ2EfBnInmE/MooLaLa?node-id=0%3A1
 
